@@ -17,7 +17,7 @@ the ability to perform well in collaboration.</h3>
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/sachin-kumar-2a8a47231">
+  <a href="https://www.linkedin.com/in/sachin-kumar-2a8a47231/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kumar-2a8a47231" height="35" width="70" align="center" />
   </a>
  
