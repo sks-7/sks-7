@@ -22,7 +22,7 @@ the ability to perform well in collaboration.</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-kumar-2a8a47231/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kumar-2a8a47231" height="35" width="70" align="center" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sachin-kumar-2a8a47231" height="35" width="70" align="center" />
   </a>
  
 </p>
