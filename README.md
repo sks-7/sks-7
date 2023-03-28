@@ -15,7 +15,7 @@ and backend web developer with a specialization in MERN stack. Problem solving m
 the ability to perform well in collaboration.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://sks-7.github.io/)
-- 📋 Checkout my [Resume](https://drive.google.com/file/d/1DJp5N0pkeARCJeImVmLSyhq4O5LbEid6/view?usp=share_link)
+- 📋 Checkout my [Resume](https://drive.google.com/file/d/1POhEPI5fuaEuto4tKr1gwx9UzK7YwRJW/view?usp=share_link)
 - 📧 How to reach me, [email](mailto:sachinsingh.kumar07@gmail.com) :)
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
