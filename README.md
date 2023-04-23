@@ -25,11 +25,11 @@ the ability to perform well in collaboration.</h3>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sachin-kumar-2a8a47231" height="35" width="70" align="center" />
   </a>
   
-   <a href="https://github.com/sks-7" target="blank">
+<!--    <a href="https://github.com/sks-7" target="blank">
 
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="35" width="70" align="center" marginRight="50" />
 
-  </a>
+  </a> -->
  
 </p>
 
