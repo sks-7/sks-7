@@ -1,12 +1,15 @@
-<!-- <div align="center">
-  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Sachin Kumar" />
-</div> -->
 
-<br/>
  ### Hi there, I'm Sachin Kumar 👋  
+ 
+<div align="center">
+  <a href="https://github.com/sks-7/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Self Sachin Kumar; I am a Full-Stack%20Web%20Developer 👨🏻‍💻;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</div>
 
 
-  <a href="https://github.com/sks-7/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
+<!--   <a href="https://github.com/sks-7/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a> -->
+
+
 
 <p> <img height="20px" src="https://komarev.com/ghpvc/?username=sks-7&label=Profile%20views&color=0e75b6&style=flat" alt="sks-7" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
@@ -24,6 +27,8 @@ the ability to perform well in collaboration.</h3>
   <a href="https://www.linkedin.com/in/sachin-kumar-2a8a47231/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="sachin-kumar-2a8a47231" height="35" width="70" align="center" />
   </a>
+  
+<!--     <a href="https://github.com/sks-7" target="blank"> -->
   
 <!--    <a href="https://github.com/sks-7" target="blank">
 
