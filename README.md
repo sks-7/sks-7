@@ -1,13 +1,7 @@
 
  ### Hi there, I'm Sachin Kumar 👋  
  
-<div align="center">
-  <a href="https://github.com/sks-7/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My Self Sachin Kumar; I am a Full-Stack%20Web%20Developer 👨🏻‍💻;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-</div>
-
-
-<!--   <a href="https://github.com/sks-7/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a> -->
+  <a href="https://github.com/sks-7/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
 
 
 
