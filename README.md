@@ -88,7 +88,7 @@ the ability to perform well in collaboration.</h3>
 
 | 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sks-7&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/sks-7/github-readme-stats)| <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sks-7&theme=2077" height="10%" width="100%"/> |
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=sks-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)| <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sks-7&theme=2077" height="10%" width="100%"/> |
 
 
 
