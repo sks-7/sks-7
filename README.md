@@ -7,9 +7,7 @@
 
 <p> <img height="20px" src="https://komarev.com/ghpvc/?username=sks-7&label=Profile%20views&color=0e75b6&style=flat" alt="sks-7" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-<h3>An enthusiastic, self-motivated and passionate front-end
-and backend web developer with a specialization in MERN stack. Problem solving mindset and
-the ability to perform well in collaboration.</h3>
+<h3>An enthusiastic, self-motivated, and passionate front-end and back-end web developer specializing in MERN stack. Problem-solving mindset and the ability to perform well in collaboration.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://sks-7.github.io/)
 - 📋 Checkout my [Resume](https://drive.google.com/file/d/1POhEPI5fuaEuto4tKr1gwx9UzK7YwRJW/view?usp=share_link)
