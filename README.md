@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Sachin Kumar 👋</h1>
-
-<h3 align="center">Senior Software Engineer · Backend, Distributed Systems & Agentic AI</h3>
+````markdown
+<p align="center">
+  <img src="assets/header.svg" alt="Sachin Kumar - Senior Software Engineer" width="100%" />
+</p>
 
 <p align="center">
   📍 Mumbai, India &nbsp;•&nbsp; 💻 3+ years building high-concurrency systems &nbsp;•&nbsp; 🤖 LLM agents in production
@@ -124,12 +125,22 @@ I'm a software engineer who designs and scales **high-concurrency distributed sy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sks-7&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sks-7&theme=dark" alt="GitHub streak" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="49%" />
 </p>
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sks-7&theme=dark&layout=compact" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sks-7/sks-7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sks-7/sks-7/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sks-7/sks-7/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -149,3 +160,8 @@ I'm a software engineer who designs and scales **high-concurrency distributed sy
 - 📧 Email: [sachinsingh.kumar07@gmail.com](mailto:sachinsingh.kumar07@gmail.com)
 
 <p align="center"><i>Open to conversations about backend engineering, distributed systems, and agentic AI.</i></p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Thanks for visiting" width="100%" />
+</p>
+````
