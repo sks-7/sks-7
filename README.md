@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Agentic%20AI&descSize=18&descAlignY=58" width="100%" alt="Sachin Kumar" />
 
 <a href="https://github.com/sks-7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Senior+Software+Engineer;Go+%7C+Python+%7C+Node.js;Distributed+Systems+%26+Agentic+AI;Building+LLM+agents+that+don't+hallucinate;Low-latency+trading+backends+%26+streaming+analytics" alt="Senior Software Engineer | Go, Python, Node.js | Distributed Systems and Agentic AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Senior+Software+Engineer;Go+%7C+Python+%7C+Node.js;Distributed+Systems+%26+Agentic+AI;Building+LLM+agents+that+don't+hallucinate;low-latency+trading+backends+%26+streaming+analytics" alt="Senior Software Engineer | Go, Python, Node.js | Distributed Systems and Agentic AI" />
 </a>
 
 <br/>
