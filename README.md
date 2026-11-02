@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Agentic%20AI&descSize=18&descAlignY=58" width="100%" alt="Sachin Kumar" />
 
 <a href="https://github.com/sks-7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Senior+Software+Engineer;Go+%7C+Python+%7C+Node.js;Distributed+Systems+%26+Agentic+AI;Building+LLM+agents+that+don't+hallucinate;low-latency+trading+backends+%26+streaming+analytics" alt="Senior Software Engineer | Go, Python, Node.js | Distributed Systems and Agentic AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&height=60&lines=Senior+Software+Engineer;Go+%7C+Python+%7C+Node.js;Distributed+Systems+%26+Agentic+AI;Building+LLM+agents+that+don't+hallucinate;Sub-second+trading+backends+%26+streaming+analytics" alt="Senior Software Engineer | Go, Python, Node.js | Distributed Systems and Agentic AI" />
 </a>
 
 <br/>
@@ -15,6 +15,7 @@
 <a href="mailto:sachinsingh.kumar07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://drive.google.com/file/d/1POhEPI5fuaEuto4tKr1gwx9UzK7YwRJW/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 <a href="https://github.com/sks-7?tab=followers"><img src="https://img.shields.io/github/followers/sks-7?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=sks-7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -34,13 +35,13 @@ I'm a software engineer who designs and scales **high-concurrency distributed sy
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLM%20tokens-%E2%88%9240%25-2ea44f?style=for-the-badge" alt="LLM tokens down 40 percent" />
-<img src="https://img.shields.io/badge/API%20latency-%E2%88%9230%25-2ea44f?style=for-the-badge" alt="API latency down 30 percent" />
+<img src="https://img.shields.io/badge/LLM%20tokens-40%25%20lower-2ea44f?style=for-the-badge" alt="LLM tokens 40 percent lower" />
+<img src="https://img.shields.io/badge/API%20latency-30%25%20lower-2ea44f?style=for-the-badge" alt="API latency 30 percent lower" />
 <img src="https://img.shields.io/badge/Hallucinated%20numbers-0-f78166?style=for-the-badge" alt="Zero hallucinated numbers" />
 
 <img src="https://img.shields.io/badge/Events%20streamed-Millions-0e75b6?style=for-the-badge" alt="Millions of events streamed" />
 <img src="https://img.shields.io/badge/APIs%20supported-570%2B-8957e5?style=for-the-badge" alt="570 plus APIs supported" />
-<img src="https://img.shields.io/badge/Field%20efficiency-%2B40%25-2ea44f?style=for-the-badge" alt="Field efficiency up 40 percent" />
+<img src="https://img.shields.io/badge/Field%20efficiency-40%25%20higher-2ea44f?style=for-the-badge" alt="Field efficiency 40 percent higher" />
 
 </div>
 
@@ -230,12 +231,9 @@ ACID-compliant order flow with an event pipeline that streams trades into analyt
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<details>
-<summary><b>Click to expand live GitHub stats</b></summary>
-
-<br/>
-
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sks-7&theme=github_dark" width="100%" alt="Profile details and contribution graph" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sks-7&theme=github_dark" width="49%" alt="GitHub stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sks-7&theme=github_dark" width="49%" alt="Most used languages" />
@@ -243,9 +241,9 @@ ACID-compliant order flow with an event pipeline that streams trades into analyt
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sks-7&theme=github_dark" width="49%" alt="Repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sks-7&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive time" />
 
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sks-7&theme=github-dark-blue&hide_border=true" alt="GitHub streak" /></a>
 
-</details>
+</div>
 
 ---
 
